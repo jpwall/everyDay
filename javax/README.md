@@ -1,4 +1,4 @@
-#javax
+# javax
 
 This small program runs `javac` for a given file then `java` for the compiled class. It currently does not support absolute file paths, only relative.
 
