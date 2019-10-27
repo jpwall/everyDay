@@ -1,4 +1,5 @@
-# lgrep
+# Day 1:
+## lg (lgrep)
 
 A simple bash script that executes `ls [directory] | grep [matches]`.
 

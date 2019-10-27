@@ -1,4 +1,5 @@
-# sp
+# Day 3:
+## sp
 
 Short for StockPortfolio, this shell script enables me to run my portfolio project with one simple command instead of running it through gradle every time.
 
